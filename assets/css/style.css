@@ -668,11 +668,11 @@ section {
 }
 
 #services .box {
-  padding: 50px 20px;
+  padding: 35px 10px;
   margin-bottom: 50px;
   text-align: center;
   border: 1px solid #e6e6e6;
-  height: 130px;
+  height: 110px;
   position: relative;
   background: #fafafa;
 }
@@ -680,7 +680,7 @@ section {
 #services .icon {
   position: absolute;
   top: -36px;
-  left: calc(50% - 36px);
+  left: calc(50% - 28px);
   transition: 0.2s;
   border-radius: 50%;
   border: 6px solid #fff;
@@ -689,8 +689,8 @@ section {
   align-items: center;
   flex-direction: column;
   text-align: center;
-  width: 72px;
-  height: 72px;
+  width: 60px;
+  height: 60px;
   background: #2dc997;
 }
 
@@ -700,7 +700,7 @@ section {
 
 #services .icon i {
   color: #fff;
-  font-size: 24px;
+  font-size: 18px;
   line-height: 0;
 }
 
@@ -719,7 +719,7 @@ section {
 
 #services .title {
   font-weight: 700;
-  font-size: 18px;
+  font-size: 12px;
   margin-bottom: 15px;
   text-transform: uppercase;
 }
@@ -729,7 +729,7 @@ section {
 }
 
 #services .description {
-  font-size: 14px;
+  font-size: 10px;
   line-height: 24px;
 }
 
